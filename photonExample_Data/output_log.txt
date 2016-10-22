@@ -1,0 +1,671 @@
+Initialize engine version: 5.0.4f1 (1d75c08f1c9c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\usuario\Documents\photon\photonExample_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\usuario\Documents\photon\photonExample_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\usuario\Documents\photon\photonExample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\usuario\Documents\photon\photonExample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\usuario\Documents\photon\photonExample_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\usuario\Documents\photon\photonExample_Data\Managed\System.dll (this message is harmless)
+SwitchToProtocol: Tcp PhotonNetwork.connected: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 1 worker threads for Enlighten.
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+  Thread -> id: 13b8 -> priority: 1 
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+joined lobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connecting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
